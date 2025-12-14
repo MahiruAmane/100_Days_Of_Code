@@ -19,6 +19,7 @@ This Repository Is Organized To Be Easy To Navigate. You'll Find My Progress Str
 
 *   📓 **Every 10 Day's** Of Work Is Contained In a Separate Folder, Example — `C Programming (Part 1)`
 *   📝 **Inside Each** Folder, You'll Find The C Source Files, Notes, And Any Other Relevant Resources For That Day.
+*   📘 **Questions** - This Project Contains a Total Of `150` Questions.
 
 ---
 

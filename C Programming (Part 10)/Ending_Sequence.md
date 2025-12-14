@@ -1,1 +1,0 @@
-This Folder Houses 10 Sequentially Arranged Programs, Corresponding To The Schedule From Day 90 to Day 100.

@@ -1,4 +1,4 @@
-# 100 Days Of My Coding Journey
+# 100 Days Of My Coding Journey (Completed)
 
 A Personal Project Documenting My Daily Coding Journey Through College. Currently Learning, Building & Occasionally Breaking Things.
 

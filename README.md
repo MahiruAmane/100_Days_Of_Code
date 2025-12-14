@@ -19,7 +19,7 @@ This Repository Is Organized To Be Easy To Navigate. You'll Find My Progress Str
 
 *   📓 **Every 10 Day's** Of Work Is Contained In a Separate Folder, Example — `C Programming (Part 1)`
 *   📝 **Inside Each** Folder, You'll Find The C Source Files, Notes, And Any Other Relevant Resources For That Day.
-*   📘 **Questions** - This Project Contains a Total Of `150` Questions.
+*   📘 **Total Questions** - This Project Contains a Total Of `150` Questions Starting From Day `1` To Day `100`.
 
 ---
 
@@ -63,5 +63,11 @@ To **Execute** The **Program**
 - 🌸 **Member** — **MahiruAmane**.
 - 🆔 **SapID** — 590028080.
 - 🧭 **Note** — This Project Was Completed **Individually**. 
+
+---
+
+## 📈 Status
+
+- ✅ **Project Completed** — This Project Is Now Complete And No Further Updates Or Contributions Are Planned.
 
 ---
